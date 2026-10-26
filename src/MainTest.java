@@ -1,6 +1,6 @@
 public class MainTest {
     public static void main(String[] args) {
-        if (Main.add(2, 3) != 6) {
+        if (Main.add(2, 3) != 5) {
             throw new AssertionError("Test 1 failed");
         }
 
